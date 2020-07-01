@@ -1,0 +1,7 @@
+https://keras.io/guides/functional_api/
+
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+https://keras-team.github.io/keras-tuner/
+
+https://keras-team.github.io/keras-tuner/
